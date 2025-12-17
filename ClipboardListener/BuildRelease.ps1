@@ -1,4 +1,6 @@
 
+dotnet tool install -g vpk.tool --version 1.3.0
+
 # BuildRelease.ps1
 Set-Location -Path $PSScriptRoot
 
